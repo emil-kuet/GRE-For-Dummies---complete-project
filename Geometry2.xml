@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<people>
+<study id = "10">
+<Heading> Angles are measured in degrees, ˚.</Heading><Details> By definition, a circle has 360˚.</Details>
+<Details> So an angle can be measured by its
+fractional part of a circle.</Details>
+<Details> For example, an angle that is 1/360 of the arc of a circle is 1˚. </Details>
+<Details>And an angle that
+is 1/4 of the arc of a circle is 1/4×360=90˚. </Details>
+</study>
+
+</people>

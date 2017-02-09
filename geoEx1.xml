@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+<study id = "1">
+
+<Heading>Example: In the figure, AOB is a straight line.</Heading><Heading> What is
+the average of the four numbers a, b,c, d?</Heading>
+
+<Details>
+(A) 45 </Details>
+<Details>(B) 360/7 </Details>
+<Details>(C) 60 </Details>
+<Details>(D) 90 </Details> 
+<Details>(E) 120 </Details>
+</study>
+</people>

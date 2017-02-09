@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<choice>
+<study id = "1">
+<choice1>if Column A is greater
+</choice1>
+<choice1>if Column B is greater
+</choice1>
+<choice1>if the columns are equal
+</choice1>
+<choice1>if more information is needed to determine the relationship
+</choice1>
+<choice1>null
+</choice1>
+</study>
+
+<study id = "2">
+<choice1>if Column A is greater
+</choice1>
+<choice1>if Column B is greater
+</choice1>
+<choice1>if the columns are equal
+</choice1>
+<choice1>if more information is needed to determine the relationship
+</choice1>
+<choice1>null
+</choice1>
+</study>
+<study id = "3">
+<choice1>if Column A is greater
+</choice1>
+<choice1>if Column B is greater
+</choice1>
+<choice1>if the columns are equal
+</choice1>
+<choice1>if more information is needed to determine the relationship
+</choice1>
+<choice1>null
+</choice1>
+</study>
+<study id = "4">
+<choice1>if Column A is greater
+</choice1>
+<choice1>if Column B is greater
+</choice1>
+<choice1>if the columns are equal
+</choice1>
+<choice1>if more information is needed to determine the relationship
+</choice1>
+<choice1>null
+</choice1>
+</study>
+
+<study id = "5">
+<choice1>if Column A is greater
+</choice1>
+<choice1>if Column B is greater
+</choice1>
+<choice1>if the columns are equal
+</choice1>
+<choice1>if more information is needed to determine the relationship
+</choice1>
+<choice1>null
+</choice1>
+</study>
+<study id = "6">
+<choice1>if Column A is greater
+</choice1>
+<choice1>if Column B is greater
+</choice1>
+<choice1>if the columns are equal
+</choice1>
+<choice1>if more information is needed to determine the relationship
+</choice1>
+<choice1>null
+</choice1>
+</study>
+<study id = "7">
+<choice1>if Column A is greater
+</choice1>
+<choice1>if Column B is greater
+</choice1>
+<choice1>if the columns are equal
+</choice1>
+<choice1>if more information is needed to determine the relationship
+</choice1>
+<choice1>null
+</choice1>
+</study>
+
+<study id = "8">
+<choice1>if Column A is greater
+</choice1>
+<choice1>if Column B is greater
+</choice1>
+<choice1>if the columns are equal
+</choice1>
+<choice1>if more information is needed to determine the relationship
+</choice1>
+<choice1>null
+</choice1>
+</study>
+<study id = "9">
+<choice1>if Column A is greater
+</choice1>
+<choice1>if Column B is greater
+</choice1>
+<choice1>if the columns are equal
+</choice1>
+<choice1>if more information is needed to determine the relationship
+</choice1>
+<choice1>null
+</choice1>
+</study>
+<study id = "10">
+<choice1>if Column A is greater
+</choice1>
+<choice1>if Column B is greater
+</choice1>
+<choice1>if the columns are equal
+</choice1>
+<choice1>if more information is needed to determine the relationship
+</choice1>
+<choice1>null
+</choice1>
+</study>
+<study id = "11">
+<choice1>if Column A is greater
+</choice1>
+<choice1>if Column B is greater
+</choice1>
+<choice1>if the columns are equal
+</choice1>
+<choice1>if more information is needed to determine the relationship
+</choice1>
+<choice1>null
+</choice1>
+</study>
+<study id = "12">
+<choice1>if Column A is greater
+</choice1>
+<choice1>if Column B is greater
+</choice1>
+<choice1>if the columns are equal
+</choice1>
+<choice1>if more information is needed to determine the relationship
+</choice1>
+<choice1>null
+</choice1>
+</study>
+
+<study id = "13">
+<choice1>if Column A is greater
+</choice1>
+<choice1>if Column B is greater
+</choice1>
+<choice1>if the columns are equal
+</choice1>
+<choice1>if more information is needed to determine the relationship
+</choice1>
+<choice1>null
+</choice1>
+</study>
+<study id = "14">
+<choice1>if Column A is greater
+</choice1>
+<choice1>if Column B is greater
+</choice1>
+<choice1>if the columns are equal
+</choice1>
+<choice1>if more information is needed to determine the relationship
+</choice1>
+<choice1>null
+</choice1>
+</study>
+<study id = "15">
+<choice1>if Column A is greater
+</choice1>
+<choice1>if Column B is greater
+</choice1>
+<choice1>if the columns are equal
+</choice1>
+<choice1>if more information is needed to determine the relationship
+</choice1>
+<choice1>null
+</choice1>
+</study>
+</choice>

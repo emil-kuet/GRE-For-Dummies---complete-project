@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ques>
+<study id = "1">
+<ques1> If x is divisible by both 3 and 4, then the number x must be a multiple of which one of the following?
+</ques1>
+</study>
+<study id = "2">
+<ques1> The last digit of the positive even number n equals the last digit of n^2. Which one of the following
+could be n?
+</ques1>
+</study>
+<study id = "3">
+<ques1> Which one of the following is divisible by both 2 and 3?
+</ques1>
+</study>
+<study id = "4">
+<ques1> Which one of the following equals the product of exactly two prime numbers?
+</ques1>
+</study>
+<study id = "5">
+<ques1> Which one of the following equals the product of the smallest prime number greater than 21 and the</ques1><ques1>
+largest prime number less than 16?
+</ques1>
+</study>
+<study id = "6">
+<ques1> The number 3 divides a with a result of b and a remainder of 2. The number 3 divides b with a result</ques1><ques1>
+of 2 and a remainder of 1. What is the value of a ?
+</ques1>
+</study>
+</ques>

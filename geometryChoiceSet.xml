@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<choice>
+<study id = "1">
+<choice1>25
+</choice1>
+<choice1>10π
+</choice1>
+<choice1>35
+</choice1>
+<choice1>15π
+</choice1>
+<choice1>25π
+</choice1>
+</study>
+
+<study id = "2">
+<choice1>4.68
+</choice1>
+<choice1>7.68
+</choice1>
+<choice1>9.28
+</choice1>
+<choice1>11.28
+</choice1>
+<choice1>12.38
+</choice1>
+</study>
+<study id = "3">
+<choice1>3
+</choice1>
+<choice1>9
+</choice1>
+<choice1>12
+</choice1>
+<choice1>12√2
+</choice1>
+<choice1>18
+</choice1>
+</study>
+<study id = "4">
+<choice1>60
+</choice1>
+<choice1>75
+</choice1>
+<choice1>90
+</choice1>
+<choice1>120
+</choice1>
+<choice1>135
+</choice1>
+</study>
+<study id = "5">
+<choice1>20
+</choice1>
+<choice1>30
+</choice1>
+<choice1>35
+</choice1>
+<choice1>45
+</choice1>
+<choice1>50
+</choice1>
+</study>
+<study id = "6">
+<choice1>25
+</choice1>
+<choice1>55
+</choice1>
+<choice1>60
+</choice1>
+<choice1>77
+</choice1>
+<choice1>85
+</choice1>
+</study>
+<study id = "7">
+<choice1>16
+</choice1>
+<choice1>18
+</choice1>
+<choice1>36
+</choice1>
+<choice1>54
+</choice1>
+<choice1>72
+</choice1>
+</study>
+<study id = "8">
+<choice1>36
+</choice1>
+<choice1>45
+</choice1>
+<choice1>60
+</choice1>
+<choice1>72
+</choice1>
+<choice1>90
+</choice1>
+</study>
+<study id = "9">
+<choice1>45
+</choice1>
+<choice1>60
+</choice1>
+<choice1>90
+</choice1>
+<choice1>180
+</choice1>
+<choice1>360
+</choice1>
+</study>
+<study id = "10">
+<choice1>if Column A is greater
+</choice1>
+<choice1>if Column B is greater
+</choice1>
+<choice1>if the columns are equal
+</choice1>
+<choice1>if more information is needed to determine the relationship
+</choice1>
+<choice1>null
+</choice1>
+</study>
+<study id = "11">
+<choice1>if Column A is greater
+</choice1>
+<choice1>if Column B is greater
+</choice1>
+<choice1>if the columns are equal
+</choice1>
+<choice1>if more information is needed to determine the relationship
+</choice1>
+<choice1>null
+</choice1>
+</study>
+<study id = "12">
+<choice1>if Column A is greater
+</choice1>
+<choice1>if Column B is greater
+</choice1>
+<choice1>if the columns are equal
+</choice1>
+<choice1>if more information is needed to determine the relationship
+</choice1>
+<choice1>null
+</choice1>
+</study>
+<study id = "13">
+<choice1>if Column A is greater
+</choice1>
+<choice1>if Column B is greater
+</choice1>
+<choice1>if the columns are equal
+</choice1>
+<choice1>if more information is needed to determine the relationship
+</choice1>
+<choice1>null
+</choice1>
+</study>
+<study id = "14">
+<choice1>15
+</choice1>
+<choice1>30
+</choice1>
+<choice1>60
+</choice1>
+<choice1>45
+</choice1>
+<choice1>135
+</choice1>
+</study>
+<study id = "15">
+<choice1>y equal to z
+</choice1>
+<choice1>y Less than z
+</choice1>
+<choice1>y equal to z
+</choice1>
+<choice1>y greater than z
+</choice1>
+<choice1>y equal to z
+</choice1>
+</study>
+
+</choice>
+

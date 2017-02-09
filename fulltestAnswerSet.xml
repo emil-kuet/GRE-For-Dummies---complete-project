@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ans>
+<study id = "1">
+<ans1> We are given that x is divisible by 3 and 4. Hence, x must be a common multiple of 3 and 4. The least</ans1><ans1>
+common multiple of 3 and 4 is 12. So, x is a multiple of 12. The answer is (B).
+</ans1>
+</study>
+<study id = "2">
+<ans1> Numbers ending with 0, 1, 5, or 6 will have their squares also ending with the same digit.</ans1><ans1>
+For example,
+10 ends with 0, and 10^2 (= 100) also ends with 0.</ans1><ans1>
+11 ends with 1, and 11^2 (= 121) also ends with 1.</ans1><ans1>
+15 ends with 5, and 15^2 (= 225) also ends with 5.</ans1><ans1>
+16 ends with 6, and 16^2 (= 256) also ends with 6.</ans1><ans1>
+Among the four numbers 0, 1, 5, or 6, even numbers only end with 0 or 6. Choice (D) has one such
+number. </ans1><ans1>The answer is (D).
+</ans1>
+</study>
+<study id = "3">
+<ans1> A number divisible by 2 ends with one of the digits 0, 2, 4, 6, or 8.</ans1><ans1>
+If a number is divisible by 3, then the sum of its digits is also divisible by 3.</ans1><ans1>
+Hence, a number divisible by both 2 and 3 will follow both of the above rules.</ans1><ans1>
+Choices (A) and (C) do not end with an even digit. Hence, eliminate them.</ans1><ans1>
+The sum of digits of Choice (B) is 1 + 2 + 9 + 6 = 18, which is divisible by 3. Also, the last digit is 6.
+Hence, choice (B) is correct.</ans1><ans1>
+Next, the sum of the digits of choices (D) and (E) are 1 + 4 + 0 + 6 (= 11) and 1 + 4 + 1 + 4 (= 10),
+respectively, and neither is divisible by 3. Hence, reject the two choices. </ans1><ans1>
+Hence, the answer is (B).
+</ans1>
+</study>
+<study id = "4">
+<ans1>Choice (A): 11 * 6 can be factored as 11 ⋅2 ⋅3. The product of more than two primes. Reject.</ans1><ans1>
+Choice (B): 13 * 22 can be factored as 13 ⋅2 ⋅11. The product of more than two primes. Reject.</ans1><ans1>
+Choice (C): 14 * 23 can be factored as 7 ⋅2 ⋅23. The product of more than two primes. Reject.</ans1><ans1>
+Choice (D): 17 * 21 can be factored as 17 ⋅3 ⋅7. The product of more than two primes. Reject.</ans1><ans1>
+Choice (E): 13 * 23 cannot be further factored and is itself the product of two primes. Accept.</ans1><ans1>
+The answer is (E).
+</ans1>
+</study>
+<study id = "5">
+<ans1>The smallest prime number greater than 21 is 23, and the largest prime number less than 16 is 13.</ans1><ans1> The
+product of the two is 13 ⋅23, which is listed in choice (C). </ans1><ans1>The answer is (C).
+</ans1>
+</study>
+<study id = "6">
+<ans1>Since 3 divides b with a result of 2 and a remainder of 1, b = 2 ⋅ 3 + 1 = 7. </ans1><ans1>Since number 3 divides a
+with a result of b (which we now know equals 7) and a remainder of 2, a = b ⋅ 3 + 2 = 7 ⋅ 3 + 2 = 23. </ans1><ans1>The
+answer is (D).
+</ans1>
+</study>
+</ans>

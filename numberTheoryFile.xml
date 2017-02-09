@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<people>
+
+<study id = "1">
+<Heading>“   The remainder is r when p is divided by k” means p = kq + r; the integer q is called the quotient. </Heading>
+<Details>  For instance, The remainder is 1 when 7 is divided by 3” means 7 = 3 ⋅ 2 + 1. </Details>
+<Details> Dividing both sides of p = kq+r by k gives the following alternative form p/k= q+ r/k.  </Details>
+</study>
+<study id ="2">
+<Details> </Details>
+<Details> </Details>
+
+<Heading>   Example 1: The remainder is 57 when a number is divided by 10,000.</Heading><Heading> What is the remainder 
+when the same number is divided by 1,000?</Heading>
+<Details>
+(A) 5</Details><Details>
+(B) 7</Details><Details>
+(C) 43</Details><Details>
+(D) 57</Details><Details>
+(E) 570</Details>
+<Details> </Details>
+<Details> SOLUTION is on next page </Details>
+
+</study>
+
+
+</people>

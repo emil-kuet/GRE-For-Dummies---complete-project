@@ -1,0 +1,1 @@
+Before starting copy all .png images form "Picture_IN_Book" to this folder

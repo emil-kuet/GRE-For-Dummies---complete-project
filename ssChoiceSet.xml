@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<choice>
+<study id = "1">
+<choice1>1
+</choice1>
+<choice1>4
+</choice1>
+<choice1>9
+</choice1>
+<choice1>16
+</choice1>
+<choice1>25
+</choice1>
+</study>
+
+<study id = "2">
+<choice1>1
+</choice1>
+<choice1>2
+</choice1>
+<choice1>4
+</choice1>
+<choice1>5
+</choice1>
+<choice1>6
+</choice1>
+</study>
+<study id = "3">
+<choice1>48
+</choice1>
+<choice1>96
+</choice1>
+<choice1>98
+</choice1>
+<choice1>192
+</choice1>
+<choice1>198
+</choice1>
+</study>
+<study id = "4">
+<choice1>11
+</choice1>
+<choice1>25
+</choice1>
+<choice1>38
+</choice1>
+<choice1>45
+</choice1>
+<choice1>77
+</choice1>
+</study>
+<study id = "5">
+<choice1>24
+</choice1>
+<choice1>48
+</choice1>
+<choice1>56
+</choice1>
+<choice1>72
+</choice1>
+<choice1>96
+</choice1>
+</study>
+<study id = "6">
+<choice1>9
+</choice1>
+<choice1>11
+</choice1>
+<choice1>20
+</choice1>
+<choice1>31
+</choice1>
+<choice1>51
+</choice1>
+</study>
+<study id = "7">
+<choice1>2
+</choice1>
+<choice1>3
+</choice1>
+<choice1>4
+</choice1>
+<choice1>5
+</choice1>
+<choice1>9
+</choice1>
+</study>
+<study id = "8">
+<choice1>90
+</choice1>
+<choice1>138
+</choice1>
+<choice1>153
+</choice1>
+<choice1>160
+</choice1>
+<choice1>163
+</choice1>
+</study>
+<study id = "9">
+<choice1>1/2
+</choice1>
+<choice1>1
+</choice1>
+<choice1>3/2
+</choice1>
+<choice1>2
+</choice1>
+<choice1>5/2
+</choice1>
+</study>
+<study id = "10">
+<choice1>1 : 1
+</choice1>
+<choice1>1 : 2
+</choice1>
+<choice1>1 : 4
+</choice1>
+<choice1>2 : 1
+</choice1>
+<choice1>4 : 1
+</choice1>
+</study>
+</choice>
